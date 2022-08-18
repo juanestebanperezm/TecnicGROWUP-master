@@ -1,0 +1,74 @@
+{
+  "response": {
+    "data": {
+      "bicicles": [
+        {
+          "id": "1Elec",
+          "name": "Starker Bici One",
+          "image": "https://auteco.vteximg.com.br/arquivos/ids/203909-1000-1000/bicicleta-bici-one-aluminio-blanco-azul-2021-foto-1.jpg?v=637553035715370000",
+          "type": "Electric"
+        },
+        {
+          "id": "2Elec",
+          "name": "Electron Bicicle",
+          "image": "https://bicielectron.com/images/Electron-Model-Bicielectron.jpg",
+          "type": "Electric"
+        },
+        {
+          "id": "3Elec",
+          "name": "Blacktigre Siberian 500W",
+          "image": "https://cdn.shopify.com/s/files/1/0483/2025/0023/products/bicicleta-electrica-Siberian-blanca-bateria-electrica-servicio-tecnico-eltomacorriente.com_1024x1024@2x.jpg?v=1622305083",
+          "type": "Electric"
+        },
+        {
+          "id": "1Norm",
+          "name": "Profit D2",
+          "image": "https://olimpica.vtexassets.com/arquivos/ids/524355/Bicicleta-RALI-RIO-Mec%EF%BF%BDnica-29-Hombre--Negro-Verde.jpg?v=637558583193570000",
+          "type": "Normal"
+        },
+        {
+          "id": "2Norm",
+          "name": "Warrior Carbono",
+          "image": "https://www.tubici.com/wp-content/uploads/2021/08/twiter-warrior-roja-1.jpg",
+          "type": "Normal"
+        },
+        {
+          "id": "3Norm",
+          "name": "Shimano Bicicleta",
+          "image": "https://miscelandia.vtexassets.com/arquivos/ids/189983-800-auto?v=636454118566770000&width=800&height=auto&aspect=true",
+          "type": "Normal"
+        },
+        {
+          "id": "4Norm",
+          "name": "GW Arrow 26",
+          "image": "https://falabella.scene7.com/is/image/FalabellaCO/1745210_1?wid=800&hei=800&qlt=70",
+          "type": "Normal"
+        },
+        {
+          "id": "1Anci",
+          "name": "EastManc",
+          "image": "https://http2.mlstatic.com/D_NQ_NP_830678-MCO31516841385_072019-O.jpg",
+          "type": "Ancient"
+        },
+        {
+          "id": "2Anci",
+          "name": "EastManc 2",
+          "image": "https://media.istockphoto.com/photos/old-bike-picture-id1048461134",
+          "type": "Ancient"
+        },
+        {
+          "id": "3Anci",
+          "name": "EastManc",
+          "image": "https://static8.depositphotos.com/1032821/887/i/600/depositphotos_8871963-stock-photo-old-fashioned-delivery-bicycle.jpg",
+          "type": "Ancient"
+        },
+        {
+          "id": "4Anci",
+          "name": "EastManc",
+          "image": "https://http2.mlstatic.com/D_NQ_NP_830678-MCO31516841385_072019-O.jpg",
+          "type": "Ancient"
+        }
+      ]
+    }
+  }
+}

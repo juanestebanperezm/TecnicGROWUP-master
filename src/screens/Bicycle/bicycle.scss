@@ -1,0 +1,59 @@
+.bicycle__section {
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  max-width: 1440px;
+  margin: 0 auto;
+
+  .item__container {
+    width: 50%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    img {
+      width: 80%;
+    }
+
+    .item__info {
+      height: 20%;
+      display: flex;
+      flex-direction: row;
+      align-items: center;
+      justify-content: center;
+      gap: 10px;
+    }
+  }
+
+  .form__content {
+    width: 50%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .bicycle__section {
+    flex-direction: column;
+    height: 100%;
+
+    .item__container {
+      width: 100%;
+      height: auto;
+    }
+
+    .form__content {
+      width: 100%;
+      height: auto;
+    }
+  }
+}
